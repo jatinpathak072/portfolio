@@ -17,8 +17,8 @@ export default function Projects() {
       desc: "A fully responsive personal portfolio built with React and Tailwind CSS.",
       tech: ["React", "Tailwind", "JavaScript"],
       img: port,
-      link: "#",
-      github: "#",
+      link: "https://portfolio-903dr8pad-jatins-projects-a7a5a2cd.vercel.app",
+      github: "https://github.com/jatinpathak072/portfolio",
     },
     {
       title: "Weather App",
